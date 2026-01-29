@@ -1,0 +1,19 @@
+.abc{
+    background-color: yellow;
+}
+
+.xyz{
+    background-color: antiquewhite;
+}
+
+@media (min-width : 768px) {
+    .abc{
+        background-color: red;
+    }  
+} 
+
+@media (max-width : 768px) {
+    .xyz{
+        background-color: red;
+    }  
+} 

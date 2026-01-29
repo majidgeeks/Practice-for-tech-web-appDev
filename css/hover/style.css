@@ -1,0 +1,86 @@
+/* input { */
+ /* padding: 6px 12px 6px 12px; */
+ /* border: 1px solid #665544; */
+ /* color: #ffffff;} */
+
+ /* input:hover {
+ background-color: blue;
+} */
+
+/* input:active {
+ background-color: chocolate;
+ color: black;
+} */
+/* 
+input:focus {
+ background-color: blue;
+ color: white;} */
+
+ /* .ab{
+    width: 40%;
+    height: 100%;
+    background-color: cadetblue;
+ } */
+
+  /* p {
+ height: 5%;
+ width: 15%;
+ background-color: #0088dd;
+ overflow: scroll;
+} */
+
+/* .a{
+    width: 900px;
+    height:600px;
+    background-color: black;
+}
+
+.a1{
+    min-width: 200px;
+    max-width: 500px;
+    background-color: antiquewhite;
+    height: 50px;
+}
+
+.a2{
+    width: 20%;
+    background-color: aquamarine;
+    height: 50px;
+}
+
+.a3{
+    width: 20%;
+    background-color: aqua;
+        height: 50px;
+}
+
+.a4{
+    width: 20%;
+    background-color: yellow;
+        height: 50px;
+
+} */
+
+.parent{
+    width: 700px;
+    height: 500px;
+    background-color: beige;
+    display: inline;
+}
+
+.one {
+ /* overflow: hidden; */
+ background-color: aqua;
+ /* height: 200px;
+ padding: 10px; */
+
+}
+
+ .two {
+ /* overflow: scroll;
+ overflow-x: hidden; */
+ background-color: yellow;
+ /* height: 200px;
+ padding: 15px; */
+ 
+}

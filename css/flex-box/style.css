@@ -1,0 +1,20 @@
+.container{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    /* height: 500px; */
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.box{
+    background-color: aquamarine;
+    width: 50px;
+    height: 20px;
+    margin: 5px;
+}
+
+.box5{
+    /* align-self: flex-end; */
+    /* justify-self: center; */
+}

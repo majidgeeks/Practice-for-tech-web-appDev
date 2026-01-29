@@ -1,0 +1,13 @@
+/* ul{
+      list-style-image: url("./MajidRajput.jpeg");
+} */
+
+li::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url("./MajidRajput.jpeg");
+  background-size: cover; /* image fit karne ke liye */
+  margin-right: 8px; /* text aur icon ke beech gap */
+}

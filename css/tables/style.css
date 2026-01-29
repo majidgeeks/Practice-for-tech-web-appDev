@@ -1,0 +1,41 @@
+:root{
+    --bg1:#000;
+    --bg2: red;
+    --bg3:yellow;
+}
+
+td{
+    background-color: var(--bg2);
+    padding: 10px;
+    border: 2px solid black;
+}
+
+
+table.two{
+    /* border-collapse: collapse; */
+    border-collapse:inherit;
+}
+
+@keyframes moveBox {
+    /* 0% { transform: translateX(0); } */
+    /* 0%{transform: translateY(0);} */
+    /* 10%{transform: translateY(100px);} */
+    /* 100% { transform: translateX(200px); } */
+    /* 20%{transform: rotate(0);} */
+    10%{ transform: translateX(100px) rotate(360deg) scale(1.2);}
+     /* 50% { background: yellow; } */
+  /* 100% { background: green; } */
+  /* 10%{background: red;} */
+
+}
+
+table.one{
+    border-spacing: 5px;
+    /* animation: moveBox 5s ; */
+
+}
+
+/* table.one{
+   display: grid;
+} */
+

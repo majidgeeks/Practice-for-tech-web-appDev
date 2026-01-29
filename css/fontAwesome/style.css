@@ -1,0 +1,61 @@
+.aba{
+    width: 600px;
+    height: 600px;
+    position: relative;
+}
+
+/* .parent{
+    background-color: black;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    position: relative;
+} */
+
+/* .para1{
+    background-color: antiquewhite;
+    width: 50px;
+    text-align: center;
+    position: absolute;
+}
+
+.para2{
+    background-color: blueviolet;
+    color: white;
+    width: 50px;
+    text-align: center;
+    position: absolute;
+    
+} */
+
+.child{
+    background-color: aquamarine;
+    /* width: 200px;
+    height: 20px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    bottom: 10;
+}
+
+.in{
+    margin: 2px;
+    background-color: blue;
+    color: white;
+}
+
+.child2{
+    background-color: white;
+    margin-top: 10px;
+    /* height: 200px;
+    width: 200px; */
+}
+/* 
+.p{
+        margin-top: 38px;
+} */
