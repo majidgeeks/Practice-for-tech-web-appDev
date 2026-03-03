@@ -42,4 +42,35 @@ export {};
 //     name : 'majid',
 //     city: 'lahore',
 // }
+// interface UserForm{
+//     name : string;
+//     phone? : number;
+//     email : string;
+// }
+// let formData = () => {
+//     let obj : UserForm = {
+//         name : 'majid',
+//         email : 'majid@',
+//     }
+//     console.log(obj); 
+// };
+// formData();
+// type User = {
+//   name : string;
+//   age : number;
+// }
+// type newUser = User & {
+//   city : string
+// };
+// let obj1 : newUser = {
+//     name : 'majid',
+//     age : 30,
+//     city : 'karachi',
+// }
+// interface User {
+//   name : string;
+// };
+// interface User {
+//     email : string;
+// };
 //# sourceMappingURL=app.js.map
