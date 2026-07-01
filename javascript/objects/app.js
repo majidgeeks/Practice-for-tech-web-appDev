@@ -138,6 +138,24 @@
 
 // console.log(uniqueArr);
 
+let obj = {
+    car : 'Honda',
+    model : 2022,
+    color : 'Red'
+};
+
+// delete obj.car;
+
+// console.log(obj);
+
+obj.route = 'Karachi';
+
+// console.log(obj);
+
+
+
+
+
 
 
 
